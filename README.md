@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.licdn.com/dms/image/D4D16AQGeAYvVrPDIbQ/profile-displaybackgroundimage-shrink_350_1400/0/1675454592901?e=1683158400&v=beta&t=6r-7dTWK9Ik3COP4ARce1uXLF6OF-KtcwftYS4C0xvE">
+<img src="https://www.linkedin.com/in/edilberto-lima-de-souza/overlay/background-image/">
 
 ### Oi, eu sou Edilberto 👋
 
