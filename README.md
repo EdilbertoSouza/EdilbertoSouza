@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <img src="https://www.linkedin.com/in/edilberto-lima-de-souza/overlay/background-image/">
+-->
 
 ### Oi, eu sou Edilberto 👋
 
