@@ -33,7 +33,7 @@ Pois apesar de trabalhar com sistemas ERP de mercado, também tenho realizado de
 
 ## Algumas estatísticas:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdilbertoSouza&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdilbertoSouza&theme=default) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdilbertoSouza)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdilbertoSouza&theme=dark&locale=pt-br) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoSouza&layout=compact&theme=dark)
 
 ## Mais sobre meu perfil profissional
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edilberto-lima-de-souza/)
